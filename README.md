@@ -1,1 +1,1 @@
-# revgit
+REV git
